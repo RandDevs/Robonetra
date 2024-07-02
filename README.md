@@ -69,4 +69,4 @@ Turn on the device by connecting the battery. The ultrasonic sensors will contin
 
 ## Contact
 
-For any questions or feedback, please contact rafiferanda11@gmail.com or @rafiferanda11 at instagram.
+For any questions or feedback, please contact rafiferanda11@gmail.com or @rafi_feranda at instagram.
