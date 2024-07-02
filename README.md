@@ -55,7 +55,7 @@ Default distance:
 
 Feel free to customize your own distance 😁
 
-**(NOTE: You need to install DFPlayerMini_Fast libary first to use the code)**
+**(NOTE: You need to install DFPlayerMini_Fast library first to use the code)**
 
 ## Usage
 
