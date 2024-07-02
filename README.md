@@ -23,12 +23,12 @@ This project is a robotic walking stick designed to assist visually impaired ind
 
 1. **Arduino Uno**: Connect the Arduino Uno to your computer and upload the provided code.
 2. **Ultrasonic Sensors**: Connect the ultrasonic sensors to the Arduino as follows:
-   - Left Sensor: Trigger Pin to D2, Echo Pin to D3
-   - Center Sensor: Trigger Pin to D4, Echo Pin to D5
+   - Center Sensor: Trigger Pin to D2, Echo Pin to D3
+   - Left Sensor: Trigger Pin to D4, Echo Pin to D5
    - Right Sensor: Trigger Pin to D6, Echo Pin to D7
 3. **DFPlayer Mini**: Connect the DFPlayer Mini to the Arduino:
-   - TX Pin to D10
-   - RX Pin to D11
+   - TX Pin to D8
+   - RX Pin to D9
 4. **Speaker**: Connect the speaker to the DFPlayer Mini.
 5. **Breadboard**: Use the breadboard to make necessary connections without soldering.
 6. **Power Supply**: Connect the battery to the Arduino.
