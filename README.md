@@ -12,6 +12,7 @@ This project is a robotic walking stick designed to assist visually impaired ind
 - **Battery**: Power source
 - **SD Card**: To store warning sounds
 - **Jumper cable (F to M and M to M)**: To connect all the components
+- **Battery**: For power source
 
 ## Features
 
@@ -34,7 +35,7 @@ This project is a robotic walking stick designed to assist visually impaired ind
 6. **Power Supply**: Connect the battery to the Arduino.
 7. **SD Card**: Load the warning sound files onto the SD card and insert it into the DFPlayer Mini.
 
-**See Robonetra.png file for more details**
+**See circuit.jpeg file for more details**
 
 ## Code
 
