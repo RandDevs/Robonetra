@@ -9,7 +9,6 @@ This project is a robotic walking stick designed to assist visually impaired ind
 - **DFPlayer Mini**: Sound player module
 - **Breadboard**: For connecting wires without soldering
 - **Speaker**: For audio output
-- **Battery**: Power source
 - **SD Card**: To store warning sounds
 - **Jumper cable (F to M and M to M)**: To connect all the components
 - **Battery**: For power source
